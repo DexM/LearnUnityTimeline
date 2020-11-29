@@ -1,0 +1,9 @@
+# 3D model assets
+*.fbx filter=lfs diff=lfs merge=lfs -text
+
+# Image assets
+*.png filter=lfs diff=lfs merge=lfs -text
+*.tif filter=lfs diff=lfs merge=lfs -text
+
+# Audio assets
+*.mp3 filter=lfs diff=lfs merge=lfs -text
